@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "nightwatch": "^0.8.4",
     "phantomjs": "^1.9.18",
     "protractor": "^2.5.1"
   }
